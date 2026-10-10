@@ -54,3 +54,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 34. Farmer Brown and the federal inspector (keeper, Farmer Brown)
 - 35. Farmer Brown's three-legged pig (keeper, Farmer Brown)
 - 36. Farmer Brown's airplane ride (Farmer Brown)
+- 37. Farmer Brown and the outhouse (Farmer Brown)
