@@ -40,12 +40,12 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 14. The talking dog, 6 of 10
 - 15. Golf with Moses, 7 of 10
 - 16. Ole's obituary, 7 of 10
-- 17. The head at the bar, 6 of 10
+- 17. The head at the bar, 6 of 10 (Bar jokes)
 - 18. Farmer Brown's accident (the trooper), 7 of 10 (Farmer Brown)
 - 19. The pig squealed, 8 of 10 (keeper, Farmer Brown)
 - 20. The three envelopes, 4 of 10
 - 21. The monks and the copies, 9 of 10 (keeper)
-- 22. The green horse, 8 of 10
+- 22. The green horse, 8 of 10 (Bar jokes)
 - 23. The teeth, 9 of 10 (keeper)
 - 24. The genie and the bridge, 8 of 10 (keeper)
 - 25. Look, he's moving, 7 of 10
