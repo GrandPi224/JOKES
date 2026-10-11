@@ -58,7 +58,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 25. Farmer Brown: look, he's moving, 7 of 10 (Farmer Brown)
 - 26. Farmer Brown's hearing aid, 7 of 10 (Farmer Brown)
 - 27. The preacher and the cab driver, 7 of 10
-- 28. The gentle mule, 6 of 10
+- 28. The gentle mule, 6 of 10 (Barnyard)
 - 29. The smartest man in the world, 8 of 10
 - 30. Mrs. Brown on the interstate, 7 of 10 (Farmer Brown)
 - 31. Stung on the golf course, 7 of 10
