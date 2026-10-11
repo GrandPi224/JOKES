@@ -34,6 +34,10 @@ keepers = [j for j in jokes if j.get("keeper")]
 ranked = sorted((j for j in jokes if j.get("score")), key=lambda j: (-j["score"], not j.get("keeper"), j["n"]))
 brown = [j for j in jokes if j.get("series") == "Farmer Brown"]
 stories = [j for j in jokes if j["kind"] == "story"]
+CATEGORY_ORDER = ["Farmer Brown", "Paddy O'Toole"]
+cats = {c: [j for j in stories if j.get("series") == c] for c in CATEGORY_ORDER}
+cats["Not yet categorized"] = [j for j in stories if j.get("series") not in CATEGORY_ORDER]
+categories_html = "\n".join(f"<h3>{html.escape(c)} ({len(v)})</h3>\n{link_list(v)}" for c, v in cats.items())
 oneliners = [j for j in jokes if j["kind"] == "one-liner"]
 
 page = f"""<!doctype html>
@@ -75,8 +79,8 @@ summary {{ cursor:pointer; }}
 </ol>
 <h2>Keepers</h2>
 {link_list(keepers)}
-<h2>The Farmer Brown series</h2>
-{link_list(brown)}
+<h2>Categories</h2>
+{categories_html}
 <h2>All story jokes</h2>
 {chr(10).join(joke_block(j) for j in stories)}
 <h2>One-liners (retired)</h2>
