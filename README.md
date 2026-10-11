@@ -13,7 +13,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 23. The teeth, 9 of 10 (keeper)
 - 24. The genie and the bridge, 8 of 10 (keeper)
 - 33. Farmer Brown and the city lawyer, 8 of 10 (keeper, Farmer Brown)
-- 34. Farmer Brown and the federal inspector, 9 of 10 (keeper, Farmer Brown)
+- 34. Farmer Brown and the federal inspector, 6.5 of 10 (keeper, Farmer Brown)
 - 35. Farmer Brown's three-legged pig, 8 of 10 (keeper, Farmer Brown)
 
 ## All jokes
@@ -51,7 +51,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 31. Stung on the golf course, 7 of 10
 - 32. Ole goes ice fishing, 7 of 10
 - 33. Farmer Brown and the city lawyer, 8 of 10 (keeper, Farmer Brown)
-- 34. Farmer Brown and the federal inspector, 9 of 10 (keeper, Farmer Brown)
+- 34. Farmer Brown and the federal inspector, 6.5 of 10 (keeper, Farmer Brown)
 - 35. Farmer Brown's three-legged pig, 8 of 10 (keeper, Farmer Brown)
 - 36. Farmer Brown's airplane ride, 9 of 10 (Farmer Brown)
 - 37. Farmer Brown and the outhouse, 8 of 10 (Farmer Brown)
