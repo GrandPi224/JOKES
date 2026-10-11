@@ -68,4 +68,5 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 45. Lord Hargreaves and the butler, 4 of 10
 - 46. The preacher's horse, 8 of 10 (Farmer Brown)
 - 47. Paddy O'Toole's confession, 8 of 10 (keeper, Paddy O'Toole)
-- 48. Sister Mary Margaret runs out of gas, 9 of 10
+- 48. Sister Mary Margaret runs out of gas, 5 of 10
+- 49. Mrs. Brown and the Governor, 7 of 10 (Farmer Brown)
