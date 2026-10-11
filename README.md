@@ -99,3 +99,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 66. The parrot's answer, 3 of 10 (Bar jokes)
 - 67. Farmer Brown and Ma's cat, 8 of 10 (keeper, Bar jokes)
 - 68. The trader at the Pearly Gates, 8.5 of 10 (keeper, Wall Street)
+- 69. The magician and the parrot, 8.5 of 10
