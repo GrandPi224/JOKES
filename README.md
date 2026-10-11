@@ -88,3 +88,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 59. The kangaroo's change, 7 of 10 (Bar jokes)
 - 60. The snail at the door, 7 of 10 (Bar jokes)
 - 61. The duck who wants grapes, 6.5 of 10 (Bar jokes)
+- 62. The complimentary peanuts, 7 of 10 (Bar jokes)
