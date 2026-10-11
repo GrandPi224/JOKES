@@ -10,7 +10,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 12. The parrot in the freezer, 9 of 10 (keeper)
 - 19. The pig squealed, 8 of 10 (keeper, Farmer Brown)
 - 21. The monks and the copies, 9 of 10 (keeper)
-- 23. The teeth, 9 of 10 (keeper)
+- 23. Farmer Brown and Mrs. Brown at the diner, 9 of 10 (keeper, Farmer Brown)
 - 24. The genie and the bridge, 8 of 10 (keeper)
 - 33. Farmer Brown and the city lawyer, 8 of 10 (keeper, Farmer Brown)
 - 34. Farmer Brown and the federal inspector, 6.5 of 10 (keeper, Farmer Brown)
@@ -46,14 +46,14 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 20. The three envelopes, 4 of 10
 - 21. The monks and the copies, 9 of 10 (keeper)
 - 22. The green horse, 8 of 10 (Bar jokes)
-- 23. The teeth, 9 of 10 (keeper)
+- 23. Farmer Brown and Mrs. Brown at the diner, 9 of 10 (keeper, Farmer Brown)
 - 24. The genie and the bridge, 8 of 10 (keeper)
-- 25. Look, he's moving, 7 of 10
-- 26. The hearing aid, 7 of 10
+- 25. Farmer Brown: look, he's moving, 7 of 10 (Farmer Brown)
+- 26. Farmer Brown's hearing aid, 7 of 10 (Farmer Brown)
 - 27. The preacher and the cab driver, 7 of 10
 - 28. The gentle mule, 6 of 10
 - 29. The smartest man in the world, 8 of 10
-- 30. Grandma on the interstate, 7 of 10
+- 30. Mrs. Brown on the interstate, 7 of 10 (Farmer Brown)
 - 31. Stung on the golf course, 7 of 10
 - 32. Ole goes ice fishing, 7 of 10
 - 33. Farmer Brown and the city lawyer, 8 of 10 (keeper, Farmer Brown)
