@@ -63,8 +63,9 @@ summary {{ cursor:pointer; }}
 </head>
 <body>
 <header>
-<p class="kicker">Story jokes, numbered</p>
+<p class="kicker">Keeping the told joke alive</p>
 <h1>Chip's Joke Book</h1>
+<p>Joke telling was a pastime on Southern porches, in Irish pubs, and in English music halls. It is becoming a lost art. This book keeps the jokes worth telling, written the way they are told.</p>
 <p>{len(jokes)} jokes. {len(keepers)} keepers. The standard is number 19: a slow build, real dialogue, and a punchline that gets a laugh.</p>
 </header>
 <main>
