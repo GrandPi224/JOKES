@@ -15,6 +15,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 33. Farmer Brown and the city lawyer, 8 of 10 (keeper, Farmer Brown)
 - 34. Farmer Brown and the federal inspector, 6.5 of 10 (keeper, Farmer Brown)
 - 35. Farmer Brown's three-legged pig, 8 of 10 (keeper, Farmer Brown)
+- 42. Mrs. Brown's duck, 8 of 10 (keeper, Farmer Brown)
 
 ## All jokes
 
@@ -59,4 +60,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 39. Farmer Brown goes to New York, 7 of 10 (Farmer Brown)
 - 40. Farmer Brown's sick horse, 6 of 10 (Farmer Brown)
 - 41. Farmer Brown's last cookie, 7.5 of 10 (Farmer Brown)
-- 42. Mrs. Brown's duck, 8 of 10 (Farmer Brown)
+- 42. Mrs. Brown's duck, 8 of 10 (keeper, Farmer Brown)
