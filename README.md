@@ -61,3 +61,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 40. Farmer Brown's sick horse, 6 of 10 (Farmer Brown)
 - 41. Farmer Brown's last cookie, 7.5 of 10 (Farmer Brown)
 - 42. Mrs. Brown's duck, 8 of 10 (keeper, Farmer Brown)
+- 43. Farmer Brown's chainsaw, 8 of 10 (Farmer Brown)
