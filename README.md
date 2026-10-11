@@ -16,7 +16,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 34. Farmer Brown and the federal inspector, 6.5 of 10 (keeper, Farmer Brown)
 - 35. Farmer Brown's three-legged pig, 8 of 10 (keeper, Farmer Brown)
 - 42. Mrs. Brown's duck, 8 of 10 (keeper, Farmer Brown)
-- 44. Paddy O'Toole and the three pints, 7 of 10 (keeper)
+- 44. Paddy O'Toole and the three pints, 7 of 10 (keeper, Paddy O'Toole)
 
 ## All jokes
 
@@ -63,6 +63,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 41. Farmer Brown's last cookie, 7.5 of 10 (Farmer Brown)
 - 42. Mrs. Brown's duck, 8 of 10 (keeper, Farmer Brown)
 - 43. Farmer Brown's chainsaw, 8 of 10 (Farmer Brown)
-- 44. Paddy O'Toole and the three pints, 7 of 10 (keeper)
+- 44. Paddy O'Toole and the three pints, 7 of 10 (keeper, Paddy O'Toole)
 - 45. Lord Hargreaves and the butler, 4 of 10
 - 46. The preacher's horse, 8 of 10 (Farmer Brown)
+- 47. Paddy O'Toole's confession, 8 of 10 (Paddy O'Toole)
