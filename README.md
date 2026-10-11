@@ -74,3 +74,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 50. Paddy O'Toole's last wish, 7 of 10 (keeper, Paddy O'Toole)
 - 51. Paddy O'Toole and the arthritis, 7 of 10 (Paddy O'Toole)
 - 52. Miss Ida Mae and the sermon, 7 of 10
+- 53. Farmer Brown's fiftieth anniversary, 7.5 of 10 (Farmer Brown)
