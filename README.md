@@ -95,3 +95,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 64. Thirty days, 8 of 10 (keeper, Bar jokes)
 - 65. The alligator orders, 2 of 10 (Bar jokes)
 - 66. The parrot's answer, 3 of 10 (Bar jokes)
+- 67. Farmer Brown and Mother's cat, 8 of 10 (Bar jokes)
