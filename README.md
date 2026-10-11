@@ -23,6 +23,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 54. Farmer Brown's hearing test, 7 of 10 (keeper, Farmer Brown)
 - 56. Before the trouble starts, 7.5 of 10 (keeper, Bar jokes)
 - 57. The dog who knows baseball, 7.5 of 10 (keeper, Bar jokes)
+- 58. The horse behind the bar, 7 of 10 (keeper, Bar jokes)
 
 ## All jokes
 
@@ -83,4 +84,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 55. Rory's last request, 8 of 10 (Paddy O'Toole)
 - 56. Before the trouble starts, 7.5 of 10 (keeper, Bar jokes)
 - 57. The dog who knows baseball, 7.5 of 10 (keeper, Bar jokes)
-- 58. The horse behind the bar, 7 of 10 (Bar jokes)
+- 58. The horse behind the bar, 7 of 10 (keeper, Bar jokes)
+- 59. The kangaroo's change, 7 of 10 (Bar jokes)
+- 60. The snail at the door, 7 of 10 (Bar jokes)
+- 61. The duck who wants grapes, 6.5 of 10 (Bar jokes)
