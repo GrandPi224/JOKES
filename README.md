@@ -62,4 +62,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 41. Farmer Brown's last cookie, 7.5 of 10 (Farmer Brown)
 - 42. Mrs. Brown's duck, 8 of 10 (keeper, Farmer Brown)
 - 43. Farmer Brown's chainsaw, 8 of 10 (Farmer Brown)
-- 44. Paddy and the three pints, 8.5 of 10
+- 44. Paddy O'Toole and the three pints, 8.5 of 10
