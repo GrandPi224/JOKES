@@ -517,8 +517,10 @@
   "title": "Thirty days",
   "kind": "story",
   "series": "Bar jokes",
-  "score": 8.5,
+  "score": 8,
   "note": "Claude's best shot at a 10 on Chip's scale.",
-  "text": "A man walks into a bar and sits down heavily on the end stool. Gray suit. Loosened tie. Shoulders slumped like he's carrying a piano on his back. He orders a double bourbon and stares into it.\n\nThe bartender has seen this look a thousand times. He leans on the bar. \"Rough day, friend?\"\n\nThe man sighs. \"Rough month.\"\n\n\"Want to talk about it?\"\n\nThe man turns the glass slowly on the bar. \"Thirty-one years I've been married. Thirty-one years. A month ago, my wife and I had the worst fight we've ever had. I said some things. She said some things. And at the end of it, she looked me dead in the eye and said, 'Harold, I am not going to speak to you for thirty days.'\"\n\nThe bartender winces. \"Thirty days? Not one word?\"\n\n\"Not one word. Not good morning. Not good night. Not pass the salt. Not one single word for thirty days.\"\n\n\"Oh, man. I'm sorry. That's terrible.\"\n\nThe man nods slowly. He picks up the bourbon, takes a long swallow, sets the glass down, and stares at the clock on the wall.\n\n\"Yep. And tonight's the thirtieth.\""
+  "text": "A man walks into a bar and sits down heavily on the end stool. Gray suit. Loosened tie. Shoulders slumped like he's carrying a piano on his back. He orders a double bourbon and stares into it.\n\nThe bartender has seen this look a thousand times. He leans on the bar. \"Rough day, friend?\"\n\nThe man sighs. \"Rough month.\"\n\n\"Want to talk about it?\"\n\nThe man turns the glass slowly on the bar. \"Thirty-one years I've been married. Thirty-one years. A month ago, my wife and I had the worst fight we've ever had. I said some things. She said some things. And at the end of it, she looked me dead in the eye and said, 'Harold, I am not going to speak to you for thirty days.'\"\n\nThe bartender winces. \"Thirty days? Not one word?\"\n\n\"Not one word. Not good morning. Not good night. Not pass the salt. Not one single word for thirty days.\"\n\n\"Oh, man. I'm sorry. That's terrible.\"\n\nThe man nods slowly. He picks up the bourbon, takes a long swallow, sets the glass down, and stares at the clock on the wall.\n\n\"Yep. And tonight's the thirtieth.\"",
+  "scored_by": "Chip",
+  "keeper": true
  }
 ]
