@@ -79,3 +79,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 53. Farmer Brown's fiftieth anniversary, 8 of 10 (keeper, Farmer Brown)
 - 54. Farmer Brown's hearing test, 7 of 10 (keeper, Farmer Brown)
 - 55. Rory's last request, 8 of 10 (Paddy O'Toole)
+- 56. Before the trouble starts, 7.5 of 10 (Bar jokes)
