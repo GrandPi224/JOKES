@@ -78,3 +78,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 52. Miss Ida Mae and the sermon, 7 of 10
 - 53. Farmer Brown's fiftieth anniversary, 8 of 10 (keeper, Farmer Brown)
 - 54. Farmer Brown's hearing test, 7 of 10 (keeper, Farmer Brown)
+- 55. Mick's last request, 8 of 10 (Bar jokes)
