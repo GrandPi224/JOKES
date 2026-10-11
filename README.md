@@ -18,6 +18,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 42. Mrs. Brown's duck, 8 of 10 (keeper, Farmer Brown)
 - 44. Paddy O'Toole and the three pints, 7 of 10 (keeper, Paddy O'Toole)
 - 47. Paddy O'Toole's confession, 8 of 10 (keeper, Paddy O'Toole)
+- 50. Paddy O'Toole's last wish, 7 of 10 (keeper, Paddy O'Toole)
 
 ## All jokes
 
@@ -70,4 +71,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 47. Paddy O'Toole's confession, 8 of 10 (keeper, Paddy O'Toole)
 - 48. Sister Mary Margaret runs out of gas, 5 of 10
 - 49. Mrs. Brown and the Governor, 5 of 10 (Farmer Brown)
-- 50. Paddy O'Toole's last wish, 7 of 10 (Paddy O'Toole)
+- 50. Paddy O'Toole's last wish, 7 of 10 (keeper, Paddy O'Toole)
