@@ -56,3 +56,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 36. Farmer Brown's airplane ride (Farmer Brown)
 - 37. Farmer Brown and the outhouse (Farmer Brown)
 - 38. Farmer Brown and the consultant (Farmer Brown)
+- 39. Farmer Brown goes to New York (Farmer Brown)
