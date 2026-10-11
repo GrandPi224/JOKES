@@ -9,6 +9,8 @@ jokes = json.loads((ROOT / "jokes.json").read_text(encoding="utf-8"))
 
 def label(j):
     tags = []
+    if j.get("favorite"):
+        tags.append("Chip's favorite")
     if j.get("keeper"):
         tags.append("keeper")
     if j.get("series"):
@@ -31,7 +33,7 @@ def link_list(items):
 
 
 keepers = [j for j in jokes if j.get("keeper")]
-ranked = sorted((j for j in jokes if j.get("score")), key=lambda j: (-j["score"], not j.get("keeper"), j["n"]))
+ranked = sorted((j for j in jokes if j.get("score")), key=lambda j: (not j.get("favorite"), -j["score"], not j.get("keeper"), j["n"]))
 brown = [j for j in jokes if j.get("series") == "Farmer Brown"]
 stories = [j for j in jokes if j["kind"] == "story"]
 CATEGORY_ORDER = ["Farmer Brown", "Paddy O'Toole", "Bar jokes", "Wall Street"]
