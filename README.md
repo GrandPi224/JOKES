@@ -43,7 +43,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 17. The head at the bar, 6 of 10 (Bar jokes)
 - 18. Farmer Brown's accident (the trooper), 7 of 10 (Farmer Brown)
 - 19. The pig squealed, 8 of 10 (keeper, Farmer Brown)
-- 20. The three envelopes, 4 of 10
+- 20. The three envelopes, 4 of 10 (Wall Street)
 - 21. The monks and the copies, 9 of 10 (keeper)
 - 22. The green horse, 8 of 10 (Bar jokes)
 - 23. Farmer Brown and Mrs. Brown at the diner, 9 of 10 (keeper, Farmer Brown)
