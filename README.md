@@ -97,3 +97,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 65. The alligator orders, 2 of 10 (Bar jokes)
 - 66. The parrot's answer, 3 of 10 (Bar jokes)
 - 67. Farmer Brown and Ma's cat, 8 of 10 (keeper, Bar jokes)
+- 68. The trader at the Pearly Gates, 8.5 of 10 (Wall Street)
