@@ -6,7 +6,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 
 ## Keepers
 
-- 11. The dog funeral, 8 of 10 (keeper)
+- 11. The dog funeral, 8.5 of 10 (keeper)
 - 12. The parrot in the freezer, 9 of 10 (keeper)
 - 19. The pig squealed, 8 of 10 (keeper, Farmer Brown)
 - 21. The monks and the copies, 9 of 10 (keeper)
@@ -28,7 +28,7 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 8. Tim Vine's soap
 - 9. Dangerfield's psychiatrist, two plumbers, and a bartender
 - 10. The economist
-- 11. The dog funeral, 8 of 10 (keeper)
+- 11. The dog funeral, 8.5 of 10 (keeper)
 - 12. The parrot in the freezer, 9 of 10 (keeper)
 - 13. The Pope's driver, 6 of 10
 - 14. The talking dog, 6 of 10
