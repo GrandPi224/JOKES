@@ -57,3 +57,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 37. Farmer Brown and the outhouse, 8 of 10 (Farmer Brown)
 - 38. Farmer Brown and the consultant, 7 of 10 (Farmer Brown)
 - 39. Farmer Brown goes to New York, 7 of 10 (Farmer Brown)
+- 40. Farmer Brown's sick horse, 8 of 10 (Farmer Brown)
