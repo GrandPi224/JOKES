@@ -91,3 +91,4 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 61. The duck who wants grapes, 6.5 of 10 (Bar jokes)
 - 62. The complimentary peanuts, 7 of 10 (keeper, Bar jokes)
 - 63. The worst day of his life, 7 of 10 (Bar jokes)
+- 64. Thirty days, 8.5 of 10 (Bar jokes)
