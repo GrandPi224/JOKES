@@ -13,7 +13,8 @@ def label(j):
         tags.append("keeper")
     if j.get("series"):
         tags.append(j["series"])
-    return f"{j['n']}. {j['title']}" + (f" ({', '.join(tags)})" if tags else "")
+    score = f", {j['score']} of 10" if j.get("score") else ""
+    return f"{j['n']}. {j['title']}{score}" + (f" ({', '.join(tags)})" if tags else "")
 
 
 def joke_block(j):
@@ -30,6 +31,7 @@ def link_list(items):
 
 
 keepers = [j for j in jokes if j.get("keeper")]
+ranked = sorted((j for j in jokes if j.get("score")), key=lambda j: (-j["score"], not j.get("keeper"), j["n"]))
 brown = [j for j in jokes if j.get("series") == "Farmer Brown"]
 stories = [j for j in jokes if j["kind"] == "story"]
 oneliners = [j for j in jokes if j["kind"] == "one-liner"]
@@ -66,6 +68,10 @@ summary {{ cursor:pointer; }}
 <p>{len(jokes)} jokes. {len(keepers)} keepers. The standard is number 19: a slow build, real dialogue, and a punchline that gets a laugh.</p>
 </header>
 <main>
+<h2>Ranked by laughs</h2>
+<ol>
+{chr(10).join(f'<li><a href="#j{j["n"]}">{html.escape(label(j))}</a></li>' for j in ranked)}
+</ol>
 <h2>Keepers</h2>
 {link_list(keepers)}
 <h2>The Farmer Brown series</h2>

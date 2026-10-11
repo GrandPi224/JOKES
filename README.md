@@ -6,15 +6,15 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 
 ## Keepers
 
-- 11. The dog funeral (keeper)
-- 12. The parrot in the freezer (keeper)
-- 19. The pig squealed (keeper, Farmer Brown)
-- 21. The monks and the copies (keeper)
-- 23. The teeth (keeper)
-- 24. The genie and the bridge (keeper)
-- 33. Farmer Brown and the city lawyer (keeper, Farmer Brown)
-- 34. Farmer Brown and the federal inspector (keeper, Farmer Brown)
-- 35. Farmer Brown's three-legged pig (keeper, Farmer Brown)
+- 11. The dog funeral, 8 of 10 (keeper)
+- 12. The parrot in the freezer, 9 of 10 (keeper)
+- 19. The pig squealed, 8 of 10 (keeper, Farmer Brown)
+- 21. The monks and the copies, 9 of 10 (keeper)
+- 23. The teeth, 9 of 10 (keeper)
+- 24. The genie and the bridge, 8 of 10 (keeper)
+- 33. Farmer Brown and the city lawyer, 8 of 10 (keeper, Farmer Brown)
+- 34. Farmer Brown and the federal inspector, 9 of 10 (keeper, Farmer Brown)
+- 35. Farmer Brown's three-legged pig, 8 of 10 (keeper, Farmer Brown)
 
 ## All jokes
 
@@ -28,32 +28,32 @@ Source of truth is `jokes.json`. Run `python build.py` to rebuild `index.html`.
 - 8. Tim Vine's soap
 - 9. Dangerfield's psychiatrist, two plumbers, and a bartender
 - 10. The economist
-- 11. The dog funeral (keeper)
-- 12. The parrot in the freezer (keeper)
-- 13. The Pope's driver
-- 14. The talking dog
-- 15. Golf with Moses
-- 16. Ole's obituary
-- 17. The head at the bar
-- 18. Farmer Brown's accident (the trooper) (Farmer Brown)
-- 19. The pig squealed (keeper, Farmer Brown)
-- 20. The three envelopes
-- 21. The monks and the copies (keeper)
-- 22. The green horse
-- 23. The teeth (keeper)
-- 24. The genie and the bridge (keeper)
-- 25. Look, he's moving
-- 26. The hearing aid
-- 27. The preacher and the cab driver
-- 28. The gentle mule
-- 29. The smartest man in the world
-- 30. Grandma on the interstate
-- 31. Stung on the golf course
-- 32. Ole goes ice fishing
-- 33. Farmer Brown and the city lawyer (keeper, Farmer Brown)
-- 34. Farmer Brown and the federal inspector (keeper, Farmer Brown)
-- 35. Farmer Brown's three-legged pig (keeper, Farmer Brown)
-- 36. Farmer Brown's airplane ride (Farmer Brown)
-- 37. Farmer Brown and the outhouse (Farmer Brown)
-- 38. Farmer Brown and the consultant (Farmer Brown)
-- 39. Farmer Brown goes to New York (Farmer Brown)
+- 11. The dog funeral, 8 of 10 (keeper)
+- 12. The parrot in the freezer, 9 of 10 (keeper)
+- 13. The Pope's driver, 6 of 10
+- 14. The talking dog, 6 of 10
+- 15. Golf with Moses, 7 of 10
+- 16. Ole's obituary, 7 of 10
+- 17. The head at the bar, 6 of 10
+- 18. Farmer Brown's accident (the trooper), 7 of 10 (Farmer Brown)
+- 19. The pig squealed, 8 of 10 (keeper, Farmer Brown)
+- 20. The three envelopes, 4 of 10
+- 21. The monks and the copies, 9 of 10 (keeper)
+- 22. The green horse, 8 of 10
+- 23. The teeth, 9 of 10 (keeper)
+- 24. The genie and the bridge, 8 of 10 (keeper)
+- 25. Look, he's moving, 7 of 10
+- 26. The hearing aid, 7 of 10
+- 27. The preacher and the cab driver, 7 of 10
+- 28. The gentle mule, 6 of 10
+- 29. The smartest man in the world, 8 of 10
+- 30. Grandma on the interstate, 7 of 10
+- 31. Stung on the golf course, 7 of 10
+- 32. Ole goes ice fishing, 7 of 10
+- 33. Farmer Brown and the city lawyer, 8 of 10 (keeper, Farmer Brown)
+- 34. Farmer Brown and the federal inspector, 9 of 10 (keeper, Farmer Brown)
+- 35. Farmer Brown's three-legged pig, 8 of 10 (keeper, Farmer Brown)
+- 36. Farmer Brown's airplane ride, 9 of 10 (Farmer Brown)
+- 37. Farmer Brown and the outhouse, 8 of 10 (Farmer Brown)
+- 38. Farmer Brown and the consultant, 7 of 10 (Farmer Brown)
+- 39. Farmer Brown goes to New York, 7 of 10 (Farmer Brown)
